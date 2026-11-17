@@ -1,4 +1,4 @@
-# spoon-echo-lab
+# [spoon-echo-lab](https://camdynmardis.github.io/spoon-echo-lab/)
 
 > A static front-end web app deployed through Google Cloud Platform.
 

@@ -1,9 +1,8 @@
 # spoon-echo-lab
 
-simple test to deploy via gcp(Google Cloud)
+> A static front-end web app deployed through Google Cloud Platform.
 
-check out my app: https://camdyn.barrycumbie.com
-
-[repo](https://github.com/CamdynMardis/spoon-echo-lab)
-
-by [camdyn](https://github.com/CamdynMardis)
+- Production app: [camdyn.barrycumbie.com](https://camdyn.barrycumbie.com)
+- GCP IP address: 35.184.118.227
+- GitHub repository: [spoon-echo-lab](https://github.com/CamdynMardis/spoon-echo-lab)
+- GitHub profile: [CamdynMardis](https://github.com/CamdynMardis)
